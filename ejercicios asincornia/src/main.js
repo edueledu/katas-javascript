@@ -1,0 +1,9 @@
+import './ejercicios-01.js';
+import './ejercicios-02.js';
+import './ejercicios-03.js';
+import './ejercicios-04.js';
+import './ejercicios-05.js';
+import './ejercicios-06.js';
+import './ejercicios-07.js';
+import './ejercicios-08.js';
+import './ejercicios-09.js';
